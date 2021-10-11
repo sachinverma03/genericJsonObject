@@ -1,0 +1,11 @@
+{
+  "name": "generic-jsobject-creator",
+  "version": "0.0.1",
+  "description": "Creates a generic, representative object from 1 or more objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachin_verma",
+  "license": "ISC"
+}
